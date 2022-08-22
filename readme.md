@@ -11,7 +11,7 @@ This project is a landing page of a company named octra which helps in business 
 
 ***
 ### Other Important Details
-- >Time taken for completion : 4 hours
+- >Time taken for completion : 8 hours
 - Technologies Used
   - HTML
   - CSS
