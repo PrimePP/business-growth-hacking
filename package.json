@@ -1,0 +1,17 @@
+{
+  "name": "business-growth-company",
+  "version": "2.0.0",
+  "description": "This is a fully responsive page of a company who helps in business growth",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "css-flex",
+    "css-grid"
+  ],
+  "author": "Pritam Pal",
+  "license": "ISC"
+}
