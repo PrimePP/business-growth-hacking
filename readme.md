@@ -20,7 +20,7 @@ This project is a landing page of a company named octra which helps in business 
 - Personal Learnings in this project 
     - HTML
     - CSS 
-- Deployed on *Vercel*  **[ClickMe]()** 
+- Deployed on *Vercel*  **[ClickMe](https://x-factor-business-growth.vercel.app/)** 
 *** 
 #### About Author
 ![AuthorImage](./circle-profile-pic.png)
