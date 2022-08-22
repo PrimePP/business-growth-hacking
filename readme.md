@@ -2,7 +2,7 @@
 
 ### Project Thumbnail
 
-![ImageThumbnail](./1.png)
+
 ![ImageThumbnail](./12.png)
 ***
 ### Project details
