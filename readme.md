@@ -14,7 +14,7 @@ Screen sizes
 
 ***
 ### Other Important Details
-- >Time taken for completion : 10 hours
+- >Time taken for completion : 12 hours
 - Technologies Used
   - HTML
   - CSS
